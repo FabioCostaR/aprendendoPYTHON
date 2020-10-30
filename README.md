@@ -1,2 +1,2 @@
 # aprendendoPYTHON
-Exercicios de Python
+Exercicios de Python do Curso em Video do Gustavo Guanabara.
