@@ -121,3 +121,330 @@ ex041: #A Confederação Nacional de Nataçao precisa de um programa que leia o 
 #até 19 anos: Junior
 #até 20 anos: Senior
 #Acima: Master
+
+ex042: #Desenvolva um programa que leia o comprimento de três retas e diga ao usuário 
+#se elas podem ou não formar um triângulo. Se formar classificar em:
+#Equilátero
+#Escaleno
+#Isosceles. 
+
+ex043: #Desenvolva uma lógica que leia o peso e altura de uma pessoa
+#calcule seu IMC e mostre seu status de acordo com a tabela abaixo.
+# Abaixo de 18.5 abaixo do peso
+#Entre 18.5 e 25 peso ideal
+#25 ate 30 sobrepeso
+#30 ate 40 obesidade
+#acima de 40 obesidade mórbida
+
+ex044: #Elabore um programa que calcule o valor a ser pago por um produto, considerando
+# Seu preço normal e condição de pagamento:
+#A vista dinheiro/ cheque: 10% de desconto
+#A vista no cartão: 5% de desconto
+#Em até 2x no cartão: preço normal
+#Em até 3x no cartão: 20% de juros
+
+ex045: #Crie um programa que faça o computador jogar JoKenPô com você 
+
+ex046: #Faça um programa que mostre na tela uma CONTAGEM REGRESSIVA para estouro de fogos de artificio.
+#indo de 10 até 0, com uma pausa de 1 segundo entre eles. 
+
+ex047: #Crie um programa que mostre na tela todos os numeros pares que estão no intervalo entre 1 e 50
+
+ex048: #Faça um programa que calcule a soma entre todos os numeros impares que
+#são multiplos de três e se encontram no intervalo de 1 ate 500
+
+ex049: #Refaça o Desafio 009, mostrando a tabuada de um numero que o usuário escolher.
+#Usando o laço for.
+
+ex050: #Faça um programa que leia seis numeros inteiros e mostre a soma apenas daqueles que forem pares
+#Se o numero digitado for impar, desconsidere-o.
+
+ex051: #Desenvolva um programa que leia o primeiro termo e a razão de uma PA. No final, mostre os 
+# 10 primeiros termos dessa progressão.
+
+ex052: #Faça um programa que leia um número inteiro e diga se ele é primo ou não.
+
+ex053: #Crie um programa que leia uma frase qualquer e diga se ela é um palindromo, desconsiderando
+#os espaços e acentos.
+
+ex054: #Crie um programa que leia o ano de nascimento de sete pessoas.
+#No final, mostre quantas pessoas ainda não atingiram a maioridade, e quantas ja são maiores.
+
+ex055: #Faça um programa que leia o peso de cinco pessoas.
+# No final, mostre qual foi o maior e o menor peso lidos.
+
+ex056: #Desenvolva um programa que leia o nome, idade e sexo de 4 pessoas. 
+#No final, mostre:
+#A media de idade do grupo.
+#Qual é o nome do homem mais velho.
+#Quantas mulheres tem menos de 20 anos
+
+ex057: #Faça um programa que leia o sexo de uma pessoa, mas so aceito os valores M ou F
+#Caso esteja errado, peça a digitação novamente até ter um valor correto.
+
+ex058: #Melhore o jogo Desafio028 onde o computador vai pensar em um numero entre 0 e 10
+#So que agora o jogador vai tentar adivinhar até acertar, mostrando no final quantos palpites
+# foram necessários para vencer.
+
+ex059: #Crie um programa que leia dois valores e mostre um menu na tela:
+#1 somar 2 multiplicar 3 maior 4 novos numeros 5 sair do programa
+#Seu programa deverá realizar a operação solicitada em cada caso.
+
+ex060: #Faça um programa que leia um numero qualquer e mostre seu fatorial.(a com while e b com o for)
+
+ex061: #Refaça o desafio051, lendo o primeiro termo e a razão de uma PA, mostrando os 10 primeiros termos,
+#da progressão usando a estrutura while.
+
+ex062: #Melhore o desafio061, perguntando para o usuario se ele quer mostrar mais termos. O programa
+#encerra quando ele disser que quer 0 termos.
+
+ex063: #Escreva um programa que leia um numero n inteiro qualquer e mostre na tela os n primeiros termos
+#de uma sequencia de Fibonacci
+
+ex064: #Crie um programa que leia varios numeros inteiros pelo teclado. 
+#O programa só vai parar quando o usuário digitar o valor 999, que é a condição de parada.
+#No final mostre quantos numeros foram digitados e qual foi a soma entre eles.
+
+ex065: #Crie um programa que leia vários numeros inteiros pelo teclado. No final da execução, mostre
+# a média entre todos os valores e qual foi o maior e o menor valor lido. O programa deve perguntar
+# ao usuário se ele quer continuar ou não continuar a digitar valores. 
+
+ex066: #Crie um programa que leia vários números inteiros pelo teclado.
+#O programa so para quando o usuario digitar 999, que é condição de parada.
+# No final, mostre quantos numeros foram digitados e qual foi a soma entre eles. 
+#Desconsiderando o flag.
+
+ex067: #Faça um programa que mostre a tabuada de vários numeros, um de cada vez,
+# para cada valor digitado pelo usuario.
+# O programa só será interrompido quando o numeros solicitado for negativo.
+
+ex068: #Faça um programa que jogue par ou impar . O jogo só será interrompido quando o
+#jogador perder, mostrando o total de vitórias consecutivas que ele conquistou no final do jogo.
+
+ex069: #Crie um programa que leia a idade e o sexo de várias pessoas.
+#A cada pessoa cadastrada, o programa deverá se o usuário quer ou não continuar.
+#No final mostre:
+#Quantas pessoas tem mais de 18 anos
+#Quantos homens foram cadastrados.
+#Quantas mulheres tem menos de 20 anos
+
+ex070: #Crie um programa que leia o nome e o preço de vários produtos.
+#O programa deverá perguntar se o usuario vai continuar. No final mostre:
+#Qual é o total gasto na compra
+#Quantos produtos custam mais de R$1000.00
+#Qual é o nome do produto mais barato.
+
+ex071: #Crie um programa que simule o funcionamento de um Caixa Eletronico.
+#No inicio pergunte qual valor será sacado (INTEIRO)
+#Programa vai informar quantas cédulas serão entregues de cada valor.
+#Considere as cédulas de 50, 20, 10, e 1.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+MUNDO 03
+
+ex072: #Crie um programa que tenha uma tupla totalmente preenchida com uma contagem
+#por extenso, de zero até vinte.
+#Seu programa deverá ler um numero pelo teclado ( 0 ~20) e mostra-lo por extenso.
+
+ex073: #Crie uma tupla preenchida com os 20 primeiros colocados do Campeonato Bras. de Futebol
+#na ordem de colocação. Depois mostre:
+#Apenas os cinco primeiros colocados.
+#Os ultimos quatro colocados.
+#Uma lista dos times em ordem alfabética.
+#Em que posição na tabela está o time do Chapecoense.
+
+ex074: #Crie um programa que vai gerar cinco numeros aleatórios e colocar em uma tupla.
+#Depois disso, mostre a listagem de números gerados e também indique qual é o numero maior
+#E menor da tupla.
+
+ex075: #Desenvolva um programa que leia quatro valores pelo teclado e guarde-os em uma tupla.
+#No final mostre:
+#Quantas vezes apareceu o numero 9
+# Em que posição foi digitado o primeiro valor 3
+#Quais foram os números pares.
+
+ex076: #Crie um programa que tenha uma tupla unica com nomes de produtos e seus
+#respectivos preços, na sequencia.
+#No final mostre uma listagem de preços, organizando os dados em forma tabular.
+
+ex077: #Crie um programa que tenha uma tupla com várias palavras (sem acento).
+#Depois disso, você deve mostrar, para cada palavra, quais são suas vogais.
+
+ex078: #Faça um programa que leia 5 valores numericos e guarde-os em uma lista.
+#No final mostre qual foi o maior e o menor valor digitado e suas respectivas posições 
+#Na lista.
+
+ex079: #Crie um programa em que o usuario possa digitar vários valores númericos e 
+#Cadastre-os em uma lista. Caso o numero já exista, ele não será adicionado.
+#No final, serão exibidos todos os valores unicos digitados, em ordem crescente.
+
+ex080: #Crie um programa em que o usuario possa digitar 5 valores númericos e cadastre
+#em uma lista. Já na posição correta de inserção (sem usar o sort()).
+# No final mostre a lista ordenada.
+
+ex081: #Crie um programa que vai ler vários números e colocar em uma lista.
+#Depois disso, mostre:
+#Quantos numeros foram digitados.
+#A lista de valores ordenados de forma decrescente.
+#Se o valor 5 foi digitado e está ou não está na lista.
+
+ex082: #Crie um programa que vai ler vários números e colocar em uma lista
+#Depois disso crie duas listas extras que vão conter apenas valores pares e impares
+#digitados, respectivamente.
+#No final, mostre o conteudo das três listas geradas.
+
+ex083: #Crie  um programa onde o usuario digite uma expressão que use parenteses.
+#Seu aplicativo deverá analisar a se a expressão passada está com os parenteses abertos e
+#Fechados na ordem correta.
+
+ex084: #Faça um programa que leia o nome e peso de várias pessoas, guardando tudo em 
+#uma lista. No final mostre:
+#Quantas pessoas foram cadastradas.
+#Uma lista das pessoas mais pesadas.
+#Uma lista das pessoas mais leves.
+
+ex085: #Crie um programa onde o usuário possa digitar 7 valores numericos e 
+#cadastre-os em uma unica lista que mantenha separados valores pares e impares.
+#No final, mostre os valores pares e impares em ordem crescente.
+
+ex086: #Crie um programa que crie uma matriz de dimensão 3x3 e preencha com valores
+#lidos pelo teclado.
+#No final, mostre a matriz tela, com formulação correta.
+
+ex087: #Aprimore o desafio anterior, mostrando no final:
+#A soma de todos os valores pares digitados.
+#A soma dos valores da terceira coluna
+#O maior valor da segunda linha
+
+ex088: #Faça um programa que ajude um jogador da mega sena a criar palpites
+# O programa vai perguntar quantos jogos serão gerados e vai sortear 6 numeros
+# entre 1 e 60 para cada jogo, cadastrando tudo em uma lista composta.
+
+ex089: #Crie um programa que leia o nome e duas notas de vários alunos e guarde
+#tudo em uma lista composta. No final, mostre um boletim contendo a média de cada um e 
+# permita que o usuário possa mostrar as notas de cada aluno individualmente.
+
+ex090: #Faça um programa que leia o nome e a media de um aluno.
+#guardando também a situação (aprovado ou reprovado) em um dicionário.
+#No final mostre o conteúdo da estrutura na tela.
+
+ex091: #Crie um programa onde 4 jogadores joguem um dado e tenham resultados
+#aleatórios. Guarde esses resultados em um dicionário. No final coloque esse
+#dicionário em ordem, sabendo que o vencedor tirou o maior número no dado.
+
+ex092: #Crie um programa que leia nome, ano de nascimento e carteira de trabalho e 
+#cadastre-os(com idade) em um dicionário se por acaso a CTPS for diferente
+# de zero, o dicionário receberá também o ano de contratação e o salário. Calcule
+# e acrescente, além da idade, com quantos anos vai se aposentar.
+
+ex093: #Crie um programa que gerencie o aproveitamento de um jogador de futebol.
+#O programa vai ler o nome do jogador e quantas partidas ele jogou. Depois vai
+#ler a quantidade de gols feitos em cada partida. No final, tudo isso será, guar
+#Dado em um dicionário, incluindo o total de gols feitos durante o campeonato 
+
+ex094: #Crie um programa que leia nome, sexo e idade de várias pessoas, guardando
+#os dados em um dicionário, e todos os dicionários em uma lista. No final mostre:
+#Quantas pessoas foram cadastradas.
+#A média de idade do grupo.
+#Uma lista com todas as mulheres.
+#Uma lista com todas as pessoas com idade acima da média.
+
+ex095: #Aprimore o desafio 093 para que ele funcione com vários jogadores,
+#incluindo um sistema de visualização de detalhes do aproveitamento de cada jogador.
+
+ex096:#Faça um programa que tenha uma função chamada área(), que receba as dimensões
+#de um terreno retangular[largura e comprimento] e mostre a área do terreno.
+
+ex097: #Faça um programa que tenha uma função chamada escreva(), que receba um texto
+#qualquer como parametro e mostre uma mensagem com tamanho adaptável.
+#Ex: escreval('Olá , mundo!)
+#saida: ~~~~~~~~~~~~
+#        Olá, mundo!
+#	~~~~~~~~~~~~		  
+
+ex098: #Faça um programa que tenha uma função chamada contador(), que receba três
+#parametros: inicio, fim e passo e realize a contagem.
+#Seu programa tem que realizar três contagens através da funçao criada:
+#a) de 1 até 10, de 1 em 1
+#b) de 10 até 0, de 2 em 2
+#c) uma contagem com inicio, fim e passo personalizado.
+
+ex099: #Faça um programa que tenha uma função chamada maior(), que receba vários parâmentros
+#com valores inteiros
+#Seu programa tem que analisar todos os valores e dizer qual deles é o maior
+
+ex100: #Faça um programa que tenha uma lista chamada numeros e duas funçoes chamadas sorteia()
+#e somaPar().A primeira função vai sortear 5 números e coloca-los dentro de uma lista
+# e a segunda vai mostrar a soma entre todos os valores pares sorteados pela função anterior.
+
+ex101: #Crie um programa que tenha uma função chamada voto() que vai receber como parametro
+#o ano de nascimento de uma pessoa, retornado um valor literal indicando se uma pessoa
+#tem voto NEGADO, OPCIONAL ou OBRIGATÓRIO nas eleições.
+
+ex102: #Crie um programa que tenha uma função fatorial() que receba dois parametros
+#o primeiro indicando o numero a calcular e o outro chamado show, que será lógico(opcional),
+#indicando se será mostrado ou não na tela o processo de cálculo do fatorial.
+
+ex103: #Faça um programa que tenha uma função chamada ficha(), que receba dois parametros
+#opcionais: o nome de um jogador e quantos gols ele marcou
+# O programa deverá ser capaz de mostrar a ficha do jogador, mesmo que algum dado nao tenha
+#sido informado corretamente.
+
+ex104: #Crie um programa que tenha a função leiaInt(), que vai funcionar de forma semelhante
+#ao input() do Python, só que fazendo a validação para aceitar apenas um valor numérico.
+#Ex: n=leiaInt('Digiteumn')
+
+ex105: #Faça um programa que tenha uma função notas() que pode receber várias notas de
+#alunos e vai retornar um dicionário com as seguintes informações:
+#Quantidade de notas
+#A maior nota
+#A menor nota
+#A média da turma
+#A situação(opcional)
+#Adicione também docstrings da função.
+
+ex106: #Faça um mini-sistema que utilize o Interactive Help do Python. O usuário vai digitar
+#o comando e o manual vai aparecer.
+#Quando o usuario digitar a palavra 'FIM' o programa encerrará.
+#USE CORES.
+https://www.youtube.com/watch?v=etjJ_4Eqrk8&t=2016s
+
+ex107: #Crie um módulo chamado moeda.py que tenha as funçoes incorporadas
+#aumentar(),diminuir(),dobro() e metade().
+#Faça também um programa que importe esse modulo e use alguas dessas funções.
+
+ex108: #Adapte o codigo do desafio107, criando uma funçao adicional chamada
+#moeda() que consiga mostrar os valores com um valor monetário formatado
+
+ex109: #Modifique as funções que foram criadas no desafio107 para que elas 
+#aceitem um parametro a mais, informando se o valor retornado por elas vai ser
+#ou não ser formatado pela função moeda() desenvolvida no desafio 108
+
+ex110: #Adicione ao modulo da moeda.py criado nos desafios anteriores,
+#uma função chamada resumo(), que mostre na tela algumas informações
+#geradas pelas funções que já temos no modulo criado até aqui
+
+ex111: #Crie um pacote chamado utilidadesCeV que tenha dois módulos internos
+#chamados moeda e dado.
+#transfira todas as funções utilizadas nos desafios 107, 108, e 109 para
+#primeiro pacote e mantenha tudo funcionando
+
+ex112: #Dentro do pacote utilidadesCeV que criamos no desafio 111 temos
+#um modulo chamado dado. Crie uma função chamada leiaDinheiro() que seja
+#capaz de funcionar como a função input(), mas com uma validação de dados
+#para aceitar apenas valores que sejam monetarios.
+
+ex113: #Reescreva a função leiaInt() que fizemos no desafio 104, incluindo agora a possibilidade
+# da digitação de um número de tipo inválido. Aproveite e crie também uma função
+# leiaFloat() com a mesma funcionalidade
+
+ex114: #Crie um codigo em Python que teste se o site Pudim está acessivel no computador usado
+
+ex115: #Crie um pequeno sistema modularizado que permita cadastrar pessoas pelo seu
+# nome e idade em um arquivo de texto simples.
+# O sistema vai ter 2 opções: Cadastrar uma nova pessoa
+# Listar todas pessoas cadastradas.
+
+https://www.youtube.com/watch?v=Et0fYeA2XxY
+https://www.youtube.com/watch?v=7U3-pJZkN-o
+
