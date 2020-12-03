@@ -1,0 +1,9 @@
+Fabio;33
+Greicy;31
+Francisco;0
+Olga;60
+Jose;63
+Wagner;30
+Tiao;100
+Pedro;3
+Joao;15
